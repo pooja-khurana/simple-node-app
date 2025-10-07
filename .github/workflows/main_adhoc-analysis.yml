@@ -52,4 +52,4 @@ jobs:
           app-name: 'adhoc-analysis'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C469D139A1D4DB094672482F09FF3C1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_70E468D70146449BA8B7011F41152972 }}
